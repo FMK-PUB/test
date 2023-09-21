@@ -16,3 +16,6 @@ func main() {
 	http.HandleFunc("/2", handler22)
 	http.ListenAndServe(":8080", nil)
 }
+
+
+#添加代码
